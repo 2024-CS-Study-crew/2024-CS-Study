@@ -5,8 +5,7 @@
 
 |                     [김예지](https://github.com/yetzzang)                     |                      [나지현](https://github.com/jihyunna)                      |                       [노소희](https://github.com/SO-HUII)                        |                       [이유진](https://github.com/2UJ1N)                        |
 |:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-| <img src="" width="150">  | <img src="" width="150">|  <img src="" width="150">  | <img src="https://github.com/42CSstudy/CS-Study/assets/83401978/6b1ca123-2b0b-4010-9b7d-39a2f782a0bc" width="150">|
-
+| <img src="" width="150">  | <img src="" width="150">|  <img src="https://github.com/CS-Study-crew/2024-CS-Study/assets/109736890/b3ba0c47-c0a6-4584-9311-19b02eec58a6" width="150">  | <img src="https://github.com/42CSstudy/CS-Study/assets/83401978/6b1ca123-2b0b-4010-9b7d-39a2f782a0bc" width="150">|
 
 <br>
 
