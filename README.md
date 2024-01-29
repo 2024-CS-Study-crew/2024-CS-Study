@@ -75,13 +75,11 @@ CS-study
 
 ### 1️⃣ 자료구조(Data Structure)
 
-- 복잡도
 - 배열 Array
 - 연결 리스트 Linked List
 - 벡터 Vector
 - 스택 Stack
 - 큐 Queue
-- 우선순위 큐
 - 그래프 Graph
 - 트리 Tree
 - 맵 Map
