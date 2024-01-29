@@ -82,6 +82,7 @@ CS-study
 - 큐 Queue
 - 그래프 Graph
 - 트리 Tree
+- 힙 Heap
 - 맵 Map
 - 셋 Set
 - 해시 Hash
