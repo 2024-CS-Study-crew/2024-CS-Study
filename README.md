@@ -82,84 +82,24 @@ CS-study
 - B-Tree & B+Tree
 
 ### 2️⃣ 알고리즘(Algorithm)
+- 거품 정렬 Bubble Sort
+- 선택 정렬 Selection Sort
+- 삽입 정렬 Insertion Sort
+- 퀵 정렬 Quick Sort
+- 병합 정렬 Merge Sort
+- 힙 정렬 Heap Sort
+- 기수 정렬 Radix Sort
+- 계수 정렬 Count Sort
+- 이분 탐색 Binary Search
+- 해시 테이블 구현
+- DFS & BFS
+- 최장 증가 수열 LIS
+- 최소 공통 조상 LCA
+- 동적 계획법 Dynamic Programming
+- 다익스트라 Dijkstra
+- 비트마스크 BitMask
 
-
-
-### 3️⃣ 데이터베이스(DB)
-
-- 관계형 데이터베이스
-  - 데이터베이스와 파일시스템의 차이
-  - 관계형 데이터베이스의 개념과 장단점
-  - DDL, DML, DCL, TCL
-  - Key
-- MySQL 아키텍처
-  - innodb
-  - 쿼리동작 방식
-- Join
-- 이상 현상과 정규화
-- 트랜잭션
-  - 트랜잭션 개념
-  - ACID
-  - Commit, Rollback
-  - 트랜잭션 격리수준
-  - LOCK, 교착상태
-- 인덱스
-  - 인덱스 개념
-  - 인덱스 종류
-  - Clustered index, Non-Clustered index
-  - 인덱스 자료구조
-- Master/Slave
-- Sharding
-- NoSQL
-  - NoSQL의 개념
-  - RDB VS NoSQL
-  - Redis 동작원리
-
-
-### 4️⃣ 네트워크 (Network)
-
-- 네트워크 레이어
-    - OSI 7계층
-    - TCP/IP 4계층
-    - IP
-        - IPv4 vs IPv6
-        - subnet
-        - CIDR
-- 통신
-    - TCP
-        - 흐름제어, 혼잡제어, 오류제어
-        - 3-way-handshake, 4-way-handshake
-    - UDP
-    - HTTP
-        - HTTP status code
-        - HTTP method
-        - HTTP 1.1, 2.0, 3.0
-    - HTTPS, SSL/TSL
-    - DNS
-    - 기타 : socket, STOMP, SMTP (프로젝트에서 사용한 경우)
-- Web
-    - Web Server vs WAS
-    - Web Server
-        - apache vs nginx (동작원리)
-        - SSL offloading
-        - reverse proxy
-        - load balancing
-            - L7 vs L4
-            - 알고리즘
-    - Web cache
-    - URI, URN, URL
-    - Rest API
-- 보안
-    - CORS
-    - XSS
-    - SQL Injection
-- 인증
-    - cookie
-    - session
-    - JWT
-
-
-### 5️⃣ 운영체제
+### 3️⃣ 운영체제
 - 운영체제 소개
   - 운영체제 필요성
   - 운영체제 정의
@@ -220,3 +160,75 @@ CS-study
     - FIFO
     - OPT
     - LRU
+
+### 4️⃣ 데이터베이스(DB)
+
+- 관계형 데이터베이스
+  - 데이터베이스와 파일시스템의 차이
+  - 관계형 데이터베이스의 개념과 장단점
+  - DDL, DML, DCL, TCL
+  - Key
+- MySQL 아키텍처
+  - innodb
+  - 쿼리동작 방식
+- Join
+- 이상 현상과 정규화
+- 트랜잭션
+  - 트랜잭션 개념
+  - ACID
+  - Commit, Rollback
+  - 트랜잭션 격리수준
+  - LOCK, 교착상태
+- 인덱스
+  - 인덱스 개념
+  - 인덱스 종류
+  - Clustered index, Non-Clustered index
+  - 인덱스 자료구조
+- Master/Slave
+- Sharding
+- NoSQL
+  - NoSQL의 개념
+  - RDB VS NoSQL
+  - Redis 동작원리
+
+### 5️⃣ 네트워크 (Network)
+
+- 네트워크 레이어
+    - OSI 7계층
+    - TCP/IP 4계층
+    - IP
+        - IPv4 vs IPv6
+        - subnet
+        - CIDR
+- 통신
+    - TCP
+        - 흐름제어, 혼잡제어, 오류제어
+        - 3-way-handshake, 4-way-handshake
+    - UDP
+    - HTTP
+        - HTTP status code
+        - HTTP method
+        - HTTP 1.1, 2.0, 3.0
+    - HTTPS, SSL/TSL
+    - DNS
+    - 기타 : socket, STOMP, SMTP (프로젝트에서 사용한 경우)
+- Web
+    - Web Server vs WAS
+    - Web Server
+        - apache vs nginx (동작원리)
+        - SSL offloading
+        - reverse proxy
+        - load balancing
+            - L7 vs L4
+            - 알고리즘
+    - Web cache
+    - URI, URN, URL
+    - Rest API
+- 보안
+    - CORS
+    - XSS
+    - SQL Injection
+- 인증
+    - cookie
+    - session
+    - JWT
